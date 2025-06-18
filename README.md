@@ -1,3 +1,6 @@
+# TheBookOfWhatever
+An magic boook
+
 # My React App
 
 This is a simple React application built with TypeScript. Below are the details on how to run and use the application.
