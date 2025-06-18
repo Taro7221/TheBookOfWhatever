@@ -1,0 +1,2 @@
+# TheBookOfWhatever
+An magic boook
